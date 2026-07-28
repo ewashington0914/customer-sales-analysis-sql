@@ -22,5 +22,5 @@ Methodology:
 
 Skills:
 
-SQL: CTEs, INNER JOINs, Aggregate Functions, Window Functions, GROUP BY, ORDER BY
+SQL: CTEs, Joins, Case, aggregate functions, Subqueries 
 Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data Visualization
