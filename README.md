@@ -1,4 +1,5 @@
 Executive Summary
+
 Customer revenue is often concentrated among a small percentage of customers, making it essential to identify the company's highest-value accounts. Using SQL and Power BI, I analyzed customer purchasing behavior, calculated total customer revenue and revenue contribution, and built a dashboard to identify the top revenue-generating customers. 
 
 Business Recommendations:
@@ -10,4 +11,16 @@ Business Recommendations:
 These initiatives can improve customer retention, increase revenue, and support more informed sales and marketing decisions.
 
 Business Problem:
+
 Businesses need to identify which customers generate the most revenue so they can prioritize retention efforts, allocate marketing resources effectively, and reduce reliance on a small number of customers.
+
+Methodology:
+
+1. Used SQL to join sales and product data, calculate customer revenue, and determine each customer's percentage contribution to total revenue.
+2. Built a Power BI dashboard to visualize customer rankings, revenue contribution, customer segments, and key sales KPIs.
+
+
+Skills
+
+SQL: CTEs, INNER JOINs, Aggregate Functions, Window Functions, GROUP BY, ORDER BY
+Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data Visualization
