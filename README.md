@@ -1,4 +1,4 @@
-Executive Summary
+Executive Summary:
 
 Customer revenue is often concentrated among a small percentage of customers, making it essential to identify the company's highest-value accounts. Using SQL and Power BI, I analyzed customer purchasing behavior, calculated total customer revenue and revenue contribution, and built a dashboard to identify the top revenue-generating customers. 
 
@@ -20,7 +20,7 @@ Methodology:
 2. Built a Power BI dashboard to visualize customer rankings, revenue contribution, customer segments, and key sales KPIs.
 
 
-Skills
+Skills:
 
 SQL: CTEs, INNER JOINs, Aggregate Functions, Window Functions, GROUP BY, ORDER BY
 Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data Visualization
