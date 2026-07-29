@@ -44,3 +44,10 @@ The top 10 customers generated between $237 and $352 in revenue, with the highes
 
 <img width="826" height="525" alt="top 10 customers" src="https://github.com/user-attachments/assets/e92d0f5e-7907-411a-8ee4-9cad53d9e992" />
 
+
+Visual 3: Revenue by Customer Segment
+Occasional customers generated the highest revenue ($65,364), followed by Regular customers ($45,748). Loyal ($11,781) and VIP ($2,389) customers contributed a smaller share of total revenue, indicating most sales came from occasional and regular customers.
+
+<img width="911" height="544" alt="Screenshot 2026-07-29 185735" src="https://github.com/user-attachments/assets/f29771ad-a445-4e65-87c4-5d56be989e65" />
+
+
