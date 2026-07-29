@@ -23,6 +23,7 @@ Methodology:
 Skills:
 
 SQL: CTEs, Joins, Case, aggregate functions, Subqueries 
+
 Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data Visualization
 
 Resuults
