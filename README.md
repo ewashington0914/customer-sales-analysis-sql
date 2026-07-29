@@ -35,4 +35,8 @@ Customer activity averaged 712 customers per month. Activity remained below aver
 <img width="1772" height="461" alt="Monthly Customer Count vs avg" src="https://github.com/user-attachments/assets/153fc775-e528-40d7-9d5f-0e2d862608fa" />
 
 
+Visual 2: Top 10 Customers by Revenue
+
+The top 10 customers generated between $237 and $352 in revenue, with the highest-ranking customer contributing 25% of total revenue. The remaining top customers each contributed between 17% and 24%, highlighting that a small group of customers accounts for a significant share of overall revenue.
+<img width="826" height="525" alt="top 10 customers" src="https://github.com/user-attachments/assets/e92d0f5e-7907-411a-8ee4-9cad53d9e992" />
 
