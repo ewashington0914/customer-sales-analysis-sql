@@ -28,11 +28,13 @@ Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data V
 Resuults
 This dashboard provides an overview of customer purchasing behavior by combining monthly customer trends, customer segmentation, and top customer revenue analysis. The analysis identified a strong seasonal increase in customer activity during the final four months of the year, with customer counts consistently exceeding the yearly average. Revenue analysis showed that occasional and regular customers generated the largest share of revenue, while the top 10 customers accounted for a significant portion of total sales, highlighting opportunities to strengthen customer retention and target high-value customers with personalized marketing initiatives.
 
+
 Visual 1: Monthly Customer Count vs Yearly Average
 
 Customer activity averaged 712 customers per month. Activity remained below average from January through August before increasing sharply in September (1,177), peaking in November (1,237), and remaining strong in December (1,227), indicating a clear seasonal increase in customer demand.
 
 <img width="1772" height="461" alt="Monthly Customer Count vs avg" src="https://github.com/user-attachments/assets/153fc775-e528-40d7-9d5f-0e2d862608fa" />
+
 
 
 Visual 2: Top 10 Customers by Revenue
