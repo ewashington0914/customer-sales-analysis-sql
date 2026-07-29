@@ -30,6 +30,11 @@ Resuults
 This dashboard provides an overview of customer purchasing behavior by combining monthly customer trends, customer segmentation, and top customer revenue analysis. The analysis identified a strong seasonal increase in customer activity during the final four months of the year, with customer counts consistently exceeding the yearly average. Revenue analysis showed that occasional and regular customers generated the largest share of revenue, while the top 10 customers accounted for a significant portion of total sales, highlighting opportunities to strengthen customer retention and target high-value customers with personalized marketing initiatives.
 
 
+
+
+
+
+
 Visual 1: Monthly Customer Count vs Yearly Average
 
 Customer activity averaged 712 customers per month. Activity remained below average from January through August before increasing sharply in September (1,177), peaking in November (1,237), and remaining strong in December (1,227), indicating a clear seasonal increase in customer demand.
@@ -38,11 +43,18 @@ Customer activity averaged 712 customers per month. Activity remained below aver
 
 
 
+
+
+
+
 Visual 2: Top 10 Customers by Revenue
 
 The top 10 customers generated between $237 and $352 in revenue, with the highest-ranking customer contributing 25% of total revenue. The remaining top customers each contributed between 17% and 24%, highlighting that a small group of customers accounts for a significant share of overall revenue.
 
 <img width="826" height="525" alt="top 10 customers" src="https://github.com/user-attachments/assets/e92d0f5e-7907-411a-8ee4-9cad53d9e992" />
+
+
+
 
 
 Visual 3: Revenue by Customer Segment
