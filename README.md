@@ -24,3 +24,5 @@ Skills:
 
 SQL: CTEs, Joins, Case, aggregate functions, Subqueries 
 Power BI: Data Modeling, DAX Measures, KPI Cards, Interactive Dashboards, Data Visualization
+<img width="1000" height="1000" alt="516r6ghtxaL _SL1000_" src="https://github.com/user-attachments/assets/08c59a39-e86c-4797-a943-2eb331bdd69a" />
+
